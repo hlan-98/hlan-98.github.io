@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Standord ICME, advised by Vasilis Syrgkanis. Prior to joining Stanford, I received by Bachelors degree in Mathematics and Bioengineering from UCLA. I am broadly insterested in the intersection of machine learning and causal inference. 
+I am currently a PhD student in Stanford ICME, advised by Vasilis Syrgkanis. Prior to joining Stanford, I received by Bachelors degree in Mathematics and Bioengineering from UCLA. I am broadly insterested in the intersection of machine learning and causal inference. 
 
 Publications
 ======
